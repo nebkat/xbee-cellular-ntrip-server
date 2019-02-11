@@ -1,0 +1,11 @@
+{
+	"name": "XBeeCellularNtripServer",
+	"mountpoint": "MOUNTPOINT",
+	"caster": {
+		"host": "ntrip.ie",
+		"port": 2101,
+		"username": "nebkat",
+		"password": "password",
+		"version": 1
+	},
+}
